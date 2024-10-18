@@ -10,3 +10,6 @@ having different ML classification models on the cancer dataset
 
 #data_prep_regularization:
 a comparison of Ridge/lasso/Elastic net with and without gridsearchCV for housing prices in linear model
+
+#fs:
+feature selection with SVM model for breat_cancer dataset of sklearn
