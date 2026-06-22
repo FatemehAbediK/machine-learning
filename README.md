@@ -14,4 +14,4 @@ Implemented linear regression with polynomial features and compared Ridge, Lasso
 
 
 ### 4. fs:
-feature selection with SVM model for breat_cancer dataset of sklearn
+Implemented a hill-climbing feature selection method on the Breast Cancer dataset (sklearn) using an SVM classifier, iteratively improving a binary feature mask over 50 epochs based on validation accuracy.
