@@ -10,7 +10,7 @@ This project applies multiple machine learning models (Logistic Regression, KNN,
 
 
 ### 3. data_prep_regularization:
-a comparison of Ridge/lasso/Elastic net with and without gridsearchCV for housing prices in linear model
+Implemented linear regression with polynomial features and compared Ridge, Lasso, and Elastic Net regularization on the Housing dataset; with and without gridsearchCV ;observed that Ridge reduced coefficient magnitude while Lasso achieved sparsity with higher MAE.
 
 
 ### 4. fs:
